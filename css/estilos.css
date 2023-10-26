@@ -1,6 +1,6 @@
 :root {
-  --cinza:#B931FC;
-  --vermelha: #B931FC;
+  --cinza:#610C9F;
+  --vermelha: #610C9F;
   --vermelha-escura: #3D0C11;
   --branca: #940B92;
   --luz: rgb(229, 255, 0);
@@ -8,7 +8,7 @@
 
 body {
   align-items: center;
-  background: linear-gradient(45deg, #610C9F 0%,#9400FF 100%);
+  background: linear-gradient(45deg, # 0%,#9400FF 100%);
   display: flex;
   justify-content: center;
   flex-direction: column;
